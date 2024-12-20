@@ -3,6 +3,7 @@
     <item name="none">0</item>
     <item name="screen.on">85</item>
     <item name="screen.full">205</item>
+    <item name="ambient.on.display0">29</item>  <!-- ~110mA -->
     <item name="bluetooth.active">50</item>
     <item name="bluetooth.on">2</item>
     <item name="wifi.on">8</item>
